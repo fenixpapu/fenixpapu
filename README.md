@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fenixpapu
-- 👀 I’m interested in nodejs, python, data engineering and photography
-- 🌱 I’m currently learning python and data engineering.
-- 💞️ I’m looking to collaborate on python backend.
+- 👀 I’m interested in nodejs, python, devops and photography
+- 🌱 I’m currently learning python and working as devops engineer.
+- 💞️ I’m looking to collaborate on devops.
 - 📫 How to reach me fb.com/phoenixpapu
 
 <!---
